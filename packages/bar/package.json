@@ -1,5 +1,5 @@
 {
-  "name": "@topherwenceslaus/bar",
+  "name": "topher-wenceslaus-test-lerna-bar",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
